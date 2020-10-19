@@ -12,10 +12,10 @@
 #include "task.h"
 
 #include "lwiplib.h"            // lwip
-#include "pinout.h"             // pinout para confg ethernet
+#include "pinout.h"             // pinout para config ethernet
 //#include "telnet_server.h"
 #include "httpd.h"              // servidor http
-#include "sntp.h"               // para descobrir o tempo do sistema com sntp
+#include "sntp.h"               // Para descobrir o tempo do sistema com sntp
 
 extern void SocketTCPClient( void *pvParameters );
 
