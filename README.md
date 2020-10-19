@@ -13,3 +13,8 @@ The CCS Project was created and configurated exactly like the images below:
 ![img2](./images/project2.png)
 ![img3](./images/project3.png)
 
+## How to use
+Run **Debug** and add **pcBuf** to the **Expression** tab. Then, enter the IP address in the browser.
+
+![img4](./images/project4.png)
+
