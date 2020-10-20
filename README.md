@@ -1,6 +1,8 @@
 # tiva_lwIP_httpserver
 lwIP application using with FreeRTOS on Tiva Connected TM4C1294XL.
 
+Based on the [video series](https://www.youtube.com/watch?v=TC-ec90i1wc&feature=emb_logo&ab_channel=GustavoDenardin) shared by  [Gustavo Denardin](https://github.com/gustavowd).
+
 ## Requirements
 * FreeRTOS v10.4.0
 * lwIP Stable-2.1.2
